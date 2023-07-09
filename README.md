@@ -1,2 +1,12 @@
-# basic-color-constancy-methods
-This repository contains implementations of basic color constancy methods for image processing, including White Patch, Gray World, and Gray Edge. These algorithms aim to correct color casts and improve color balance in images. The code can be used as a starting point for exploring and comparing different color normalization techniques.
+
+# Color Constancy Methods
+This repository contains Python implementations of three basic color constancy methods for image processing:
+
+- White Patch
+- Gray World
+- Gray Edge
+
+## Results
+
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/basic-color-constancy-methods/main/Result.png)
+
