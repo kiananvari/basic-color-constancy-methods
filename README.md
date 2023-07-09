@@ -1,5 +1,5 @@
 
-# Color Constancy Methods
+# Basic Color Constancy Methods
 This repository contains Python implementations of three basic color constancy methods for image processing:
 
 - White Patch
